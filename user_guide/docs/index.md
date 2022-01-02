@@ -239,7 +239,7 @@ bhb.play(honk)
 It can also play the sample repeatedly:
 
 ```python
-bhb.play(honk, repeat=True)
+bhb.play(honk, loop=True)
 ```
 
 And re-pitch the sample:
